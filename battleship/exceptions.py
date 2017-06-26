@@ -1,0 +1,2 @@
+class CoordinateParseException(Exception):
+    pass
